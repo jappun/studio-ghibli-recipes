@@ -1,5 +1,6 @@
 .text {
     color: rgb(142, 210, 250);
+    font-family: "Arial", "Georgia", "Times New Roman", sans-serif;
 }
 
 h1 {
@@ -30,4 +31,8 @@ img {
 
 .food-pic:hover {
     opacity: 100%;
+}
+
+p, ul, ol {
+    font-size: large;
 }
