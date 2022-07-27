@@ -1,0 +1,33 @@
+.text {
+    color: rgb(142, 210, 250);
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+
+#main-title {
+    font-size: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe-link {
+    display: block;
+    text-align: center;
+}
+
+.food-pic {
+    opacity: 75%;
+    width: 50;
+    height: auto;
+}
+
+.food-pic:hover {
+    opacity: 100%;
+}
